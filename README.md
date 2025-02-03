@@ -1,10 +1,8 @@
-# autoVideoCam2
- 쓰레드를 나눠 모션인식이 된 캠을 영상(mp4), 사진(jpg)로 인코딩 하여 S3에 저장
+![image](https://github.com/user-attachments/assets/94eed6e9-dd0e-4819-9c13-ec748c75d984)
+
 1. **프로젝트 소개**
 관람객들이 전시를 즐기며 방해받지 않고, **자동화된 모션 인식**을 통해 추억을 저장할 수 있도록 하기 위함.
-    
-    ![KakaoTalk_20250115_105822215.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/47232d81-ada6-4467-887d-7cff5b6d37e4/37811fb4-5483-4d32-8f70-b06a096d24a7/KakaoTalk_20250115_105822215.png)
-    
+![image](https://github.com/user-attachments/assets/bd583268-eb76-4cd7-a978-244afc30f9fb)
 2. **팀 인원** : 8명(개발 인원 1명)
 3. **개발 기간** : 2023.11 ~ 2024.02
 4. **기술 스택** : `Python`, `S3`, `mariaDB`, `php`, `Lightsail`
