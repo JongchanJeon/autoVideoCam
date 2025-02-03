@@ -1,0 +1,4 @@
+opencv-python
+mysql-connector-python
+boto3
+mediapipe
